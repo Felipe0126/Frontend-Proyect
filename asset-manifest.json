@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.98cb4727.chunk.js",
+    "main.js.map": "/static/js/main.98cb4727.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.edcb1bd1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.edcb1bd1.js.map",
+    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
+    "static/js/2.9d5c263f.chunk.js": "/static/js/2.9d5c263f.chunk.js",
+    "static/js/2.9d5c263f.chunk.js.map": "/static/js/2.9d5c263f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.9d5c263f.chunk.js.LICENSE.txt": "/static/js/2.9d5c263f.chunk.js.LICENSE.txt",
+    "static/media/Amazonas.b4dda43d.jpg": "/static/media/Amazonas.b4dda43d.jpg",
+    "static/media/Barranquilla.5b178094.jpg": "/static/media/Barranquilla.5b178094.jpg",
+    "static/media/Cartagena.5fe9c897.jpg": "/static/media/Cartagena.5fe9c897.jpg",
+    "static/media/Medellin.0a7e2ef6.jpg": "/static/media/Medellin.0a7e2ef6.jpg",
+    "static/media/SanAndres.92a6e721.jpg": "/static/media/SanAndres.92a6e721.jpg",
+    "static/media/SantaMarta.05aca9e6.jpg": "/static/media/SantaMarta.05aca9e6.jpg",
+    "static/media/Turismo.9de59ca6.jpg": "/static/media/Turismo.9de59ca6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edcb1bd1.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.9d5c263f.chunk.js",
+    "static/js/main.98cb4727.chunk.js"
+  ]
+}
